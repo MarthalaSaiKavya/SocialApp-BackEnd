@@ -1,0 +1,6 @@
+com/example/socialapp/config/CorsConfig.class
+com/example/socialapp/model/Post.class
+com/example/socialapp/SocialappApplication.class
+com/example/socialapp/repository/PostRepository.class
+com/example/socialapp/service/PostService.class
+com/example/socialapp/controller/PostController.class
